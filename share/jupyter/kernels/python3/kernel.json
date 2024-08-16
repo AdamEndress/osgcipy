@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:/Users/adame/AppData/Local/ESRI/conda/envs/arcgispro-py3-clone\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
